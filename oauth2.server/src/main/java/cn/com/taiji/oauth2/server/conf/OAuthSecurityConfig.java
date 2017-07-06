@@ -1,4 +1,4 @@
-package cn.com.taiji.oauth2.server.conf;
+/**package cn.com.taiji.oauth2.server.conf;
 
 import java.util.concurrent.TimeUnit;
 
@@ -80,3 +80,4 @@ import org.springframework.security.oauth2.provider.token.store.JdbcTokenStore;
 	                .scopes("app");*/
 	    }
 }
+**/
